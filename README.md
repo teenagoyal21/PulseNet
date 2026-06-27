@@ -1,4 +1,4 @@
-# PulseNet — AI-Driven Energy Supply Chain Resilience
+# PulseNet - AI-Driven Energy Supply Chain Resilience
 
 > **ET AI Hackathon 2026 · Problem Statement 2: AI-Driven Energy Supply Chain Resilience for Import-Dependent Economies**
 
